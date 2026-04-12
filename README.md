@@ -1,14 +1,14 @@
-<!DOCTYPE html><html lang="id">
+<html lang="id">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <img src="title.png" widht="150" height="170">
 <h2>creator=LeafZuya and azureXcelestial</h2>
-<a href="my3.html"><img src="no89.png" widht="10" height="20"></button></a>
+<a href="my3.html"><img src="no89.png" widht="10" height="20"></a>
 <p>jangan lupa kunjungi web Leafzuya 100% buatan Leafzuya dan tidak di bantu web ini sebagian kecil di buat oleh Leafzuya</p>
-<a href="https://leafzuya.github.io/Web_Pertama_Ku/"><img src="klik.png" widht="30" height="30"></button></a>
+<a href="https://leafzuya.github.io/Web_Pertama_Ku/"><img src="klik.png" widht="30" height="30"></a>
 <p>⬇️Baca DetaiL WeB⬇️</p>
-<a href="my2.html"><img src="klik.png" width="160" height="30"></button></a>
+<a href="my2.html"><img src="klik.png" width="160" height="30"></a>
 <p>Penting!!! ada tutorial download dan aturan web tolong di baca demi kebaikan sesama</p>
 <title>web bunny</title><style>
 body {
@@ -40,7 +40,7 @@ body {
 <h4># Better Sound</h4>
 <p>Agar Sound Minecraft jadi lebih realistis</p>
 <img src="Sound.png" width="200">
-<a href="https://www.mediafire.com/file/022b0bj45l3j30r/Better_Sounds.mcpack/file"><img src="klik2.png" widht="30" height="30"></button></a>
+<a href="https://www.mediafire.com/file/022b0bj45l3j30r/Better_Sounds.mcpack/file"><img src="klik2.png" widht="30" height="30"></a>
   <P>[DETAIL MOD]</P>
   <P>File Size=7.79MB</P>
   <p>MOD mediafire</p>
@@ -49,7 +49,7 @@ body {
 <h4>True-Java-Saturation</h4>
 <p>Mempercepat efek heal saat makan</p>
 <img src="java.png" width="200">
-<a href="https://www.curseforge.com/minecraft-bedrock/addons/true-java-saturation"><img src="klik2.png" widht="30" height="30"></button></a>
+<a href="https://www.curseforge.com/minecraft-bedrock/addons/true-java-saturation"><img src="klik2.png" widht="30" height="30"></a>
   <P>[DETAIL MOD]</P>
   <P>File Size=841.85KB</P>
   <p>MOD curseforge</p>
@@ -58,7 +58,7 @@ body {
 <h4>Night Vision</h4>
 <p>Penglihatan terang saat gelap</p>
 <img src="night.png" width="200">
-<a href="https://www.curseforge.com/minecraft-bedrock/texture-packs/toggle-night-vision"><img src="klik2.png" widht="30" height="30"></button></a>
+<a href="https://www.curseforge.com/minecraft-bedrock/texture-packs/toggle-night-vision"><img src="klik2.png" widht="30" height="30"></a>
   <P>[DETAIL MOD]</P>
   <P>File Size=35.47KB</P>
   <p>MOD curseforge</p>
@@ -67,7 +67,7 @@ body {
 <h4>Off Hand</h4>
 <p>Bisa pegang item di tangan kiri</p>
 <img src="bah.png" width="200">
-<a href="https://www.mediafire.com/file/qyj9odlqpnuwpld"><img src="klik2.png" widht="30" height="30"></button></a>
+<a href="https://www.mediafire.com/file/qyj9odlqpnuwpld"><img src="klik2.png" widht="30" height="30"></a>
   <P>[DETAIL MOD]</P>
   <P>File Size=464KB</P>
   <p>MOD mediafire</p>
@@ -76,7 +76,7 @@ body {
 <h4>Sweep and Slash</h4>
 <p>Mekanik attack seperti Java</p>
 <img src="swep.png" width="200">
-<a href="https://mcpedl.com/sweep-n-slash"><img src="klik2.png" widht="30" height="30"></button></a>
+<a href="https://mcpedl.com/sweep-n-slash"><img src="klik2.png" widht="30" height="30"></a>
   <P>[DETAIL MOD]</P>
   <P>File Size=181.73KB</P>
   <p>MOD mcpedl</p>
@@ -85,7 +85,7 @@ body {
 <h4>Ruins Structure</h4>
 <p>Menambah structure ke dunia</p>
 <img src="ph.png" width="200">
-<a href="https://www.curseforge.com/minecraft-bedrock/addons/ruins-addon"><img src="klik2.png" widht="30" height="30"></button></a>
+<a href="https://www.curseforge.com/minecraft-bedrock/addons/ruins-addon"><img src="klik2.png" widht="30" height="30"></a>
   <P>[DETAIL MOD]</P>
   <P>File Size=881.21KB</P>
   <p>MOD curseforge</p>
@@ -95,7 +95,7 @@ body {
   <h4>#[Realistic Random Loot]</h4>
   <p>Menambahkan Loot Unik Dari Item yang Berceceran Di Tanah</p>
   <img src="pack.png" width="200" height="200">
-  <a href="https://www.curseforge.com/minecraft-bedrock/addons/realistic-random-loot"><img src="klik2.png" widht="30" height="30"></button></a>
+  <a href="https://www.curseforge.com/minecraft-bedrock/addons/realistic-random-loot"><img src="klik2.png" widht="30" height="30"></a>
     <P>[DETAIL MOD]</P>
   <P>File Size=191.84KB</P>
   <p>MOD curseforge</p>
@@ -105,7 +105,7 @@ body {
   <h4>#[Villager Golem Healer Add-on]</h4>
   <p>Menambahkan villager yang bisa di trade dan bisa membuat golem sembuh dari kerusakan</p>
   <img src="con.png" width="200" height="200">
-  <a href="https://www.curseforge.com/minecraft-bedrock/addons/villager-golem-healer-add-on"><img src="klik2.png" widht="30" height="30"></button></a>
+  <a href="https://www.curseforge.com/minecraft-bedrock/addons/villager-golem-healer-add-on"><img src="klik2.png" widht="30" height="30"></a>
     <P>[DETAIL MOD]</P>
   <P>File Size=182.75KB</P>
   <p>MOD curseforge</p>
@@ -115,7 +115,7 @@ body {
   <h4>#[Way Stone]</h4>
   <p>Menambahkan Item Untuk teleport</p>
   <img src="5.png" width="200" height="200">
-  <a href="https://www.curseforge.com/minecraft-bedrock/addons/teleport-stone"><img src="klik2.png" widht="30" height="30"></button></a>
+  <a href="https://www.curseforge.com/minecraft-bedrock/addons/teleport-stone"><img src="klik2.png" widht="30" height="30"></a>
     <P>[DETAIL MOD]</P>
   <P>File Size=59.74KB</P>
   <p>MOD curseforge</p>
@@ -125,7 +125,7 @@ body {
   <h4>#[Overstack]</h4>
   <p>Membuat Limit Stack Block Yang Awal Nya 64 Bisa Jadi 1000</p>
   <img src="lui.png" width="329" height="200">
-  <a href="https://www.curseforge.com/minecraft-bedrock/addons/overstack-break-the-64-stack-limite/gallery"><img src="klik2.png" widht="30" height="30"></button></a>
+  <a href="https://www.curseforge.com/minecraft-bedrock/addons/overstack-break-the-64-stack-limite/gallery"><img src="klik2.png" widht="30" height="30"></a>
     <P>[DETAIL MOD]</P>
   <P>File Size=16.66KB</P>
   <p>MOD curseforge</p>
@@ -135,7 +135,7 @@ body {
   <h4>#[First-Person Model]</h4>
   <p>Pov Player Bisa Melihat Badan Bawah</p>
   <img src="n.png" width="200" height="200">
-  <a href="https://www.curseforge.com/minecraft/mc-mods/first-person-model"><img src="klik2.png" widht="30" height="30"></button></a>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/first-person-model"><img src="klik2.png" widht="30" height="30"></a>
     <P>[DETAIL MOD]</P>
   <P>File Size=1.51MB</P>
   <p>MOD curseforge</p>
@@ -145,7 +145,7 @@ body {
   <h4>#[Core-Craft]</h4>
   <p>Menambah petualangan baru seperti boss fight dan structure baru</p>
   <img src="up.png" width="329" height="200">
-  <a href="https://www.curseforge.com/minecraft-bedrock/addons/core-craft"><img src="klik2.png" widht="30" height="30"></button></a>
+  <a href="https://www.curseforge.com/minecraft-bedrock/addons/core-craft"><img src="klik2.png" widht="30" height="30"></a>
   <P>[DETAIL MOD]</P>
   <P>File Size=24.5MB</P>
   <p>MOD curseforge</p>
@@ -155,7 +155,7 @@ body {
   <h4>#[durability-armor-viewer]</h4>
   <p>Memperlihatkan kerusakan pada armor</p>
   <img src="fuit.png" width="200" height="200">
-  <a href="https://www.curseforge.com/minecraft-bedrock/addons/durability-armor-viewer/files/all"><img src="klik2.png" widht="30" height="30"></button></a>
+  <a href="https://www.curseforge.com/minecraft-bedrock/addons/durability-armor-viewer/files/all"><img src="klik2.png" widht="30" height="30"></a>
   <P>[DETAIL MOD]</P>
   <p>File Size=152.8KB</p>
   <P>MOD mediafire</P>
@@ -165,7 +165,7 @@ body {
   <h4>#[system-dynamic-lights]</h4>
   <p>agar bisa off hand torch dan menyala di kegelapan malam</p>
   <img src="light.png" width="200" height="200">
-  <a href="https://www.curseforge.com/minecraft-bedrock/addons/system-dynamic-lights/files/all?page=1&pageSize=20&showAlphaFiles=hide"><img src="klik2.png" widht="30" height="30"></button></a>
+  <a href="https://www.curseforge.com/minecraft-bedrock/addons/system-dynamic-lights/files/all?page=1&pageSize=20&showAlphaFiles=hide"><img src="klik2.png" widht="30" height="30"></a>
   <p>[DETAIL MOD]</p>
   <p>File Size=114.4KB</p>
   <p>MOD curseforge</p>
@@ -176,7 +176,7 @@ body {
   <h4>#[better-adventures-plus]</h4>
   <p>Modpack ini meningkatkan pengalaman vanilla dengan 200+ mod yang menambahkan kualitas hidup (QoL), visual, suasana, dan struktur baru tanpa mengubah inti permainan terlalu drastis.</p>
   <img src="6.png" width="200" height="200">
-  <a href="https://www.curseforge.com/minecraft/modpacks/better-adventures-plus/files/all?page=1&pageSize=20&showAlphaFiles=hide"><img src="klik2.png" widht="30" height="30"></button></a>
+  <a href="https://www.curseforge.com/minecraft/modpacks/better-adventures-plus/files/all?page=1&pageSize=20&showAlphaFiles=hide"><img src="klik2.png" widht="30" height="30"></a>
   <p>[DETAIL MOD]</p>
   <p>File Size=153.5MB</p>
   <p>MOD curseforge</p>
@@ -188,7 +188,7 @@ body {
   <img src="xnova.png" width="200" height="200">
   <a href="
 https://www.mediafire.com/file/zdeysbtu43vu6cg/%25F0%259D%2595%258Fnova_Model_v3_INDONESIA_v2.mcpack/file
-"><img src="klik2.png" widht="30" height="30"></button></a>
+"><img src="klik2.png" widht="30" height="30"></a>
   <P>[DETAIL MOD]</P>
   <P>File Size=6.28MB</P>
   <p>MOD mediafire</p>
